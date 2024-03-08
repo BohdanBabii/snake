@@ -2,8 +2,6 @@
 
 A classic Snake game implemented using Tkinter and canvas.
 
-![Snake Game Demo](screenshot.png)
-
 ## Table of Contents
 - [Features](#features)
 - [Installation](#installation)
